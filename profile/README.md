@@ -11,9 +11,8 @@ We build modular, themeable components with first‑class accessibility and deve
 - 🎨 **Styled but Flexible**  
   Ships with sensible defaults, exposes all components and their prop types, uses `twmerge` to merge user‑supplied class names and merges any other props for effortless extension.
 
-
 - ♿ **Accessible**  
-  ARIA roles and keyboard support baked in from day one.
+  ~ARIA roles and keyboard support baked in from day one.~
 
 - ⚡️ **Performance‑Focused**  
   Lightweight, tree‑shakable, and ready for production.
